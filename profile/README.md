@@ -17,21 +17,27 @@ We’re currently contributing to:
 - [Accessible Astro Components](https://github.com/markteekman/accessible-astro-components/): A library of reusable, accessible components designed for Astro, build in TypeScript.
 - [Accessible Astro Dashboard](https://github.com/markteekman/accessible-astro-dashboard/): A user-friendly dashboard interface with a login screen, built with accessibility in mind.
 
-## ♿ Our Vision
+## 🌟 Our mission
 
-Incluud is more than a development initiative; it’s a commitment to a more inclusive web. Through innovation and collaboration, we aim to make accessibility standard practice—benefiting developers, designers, and users alike.
+> Make the web more accessible for everyone with projects that are easy to use for both developers and end-users, with accessibility and inclusivity as our foundation.
 
-## ❤️ Helping out
+## ❤️ Support this project
 
-If you find that something isn’t working right, we’d love to hear from you! Improving these projects is a team effort, and you can contribute in many ways:
-- Submit issues and ideas to the repositories.
-- Start a discussion.
-- Create a pull request.
-- Or simply buy us a coffee to show your support.
+Your support helps us cover basic costs and continue building accessible solutions for the Astro ecosystem. By becoming a sponsor, you're not just supporting code – you're helping create a more inclusive web for everyone. Every contribution, big or small, helps maintain and improve these accessibility-focused tools.
 
-[![buymeacoffee-button](https://user-images.githubusercontent.com/3909046/150683481-be070424-7bb0-4dd7-a3cb-43b5605163f5.png)](https://www.buymeacoffee.com/markteekman)
+[![Sponsor on Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/incluud)
 
-## ☕ Thank you!
+## 🌱 Together we make a difference
 
-A huge thank you to the Astro community for creating such an amazing static site generator and to everyone who has contributed to the Accessible Astro projects. Your support and collaboration inspire us to keep building accessible and inclusive tools that make the web better for everyone around the world!
+We want to express our heartfelt gratitude to everyone who contributes to making the web more accessible:
+
+- **The Astro Team** for creating an amazing static site generator and the wonderful Starlight theme
+- **Our Contributors** who dedicate their time and expertise to improve these tools
+- **Our Sponsors** who help make this project sustainable
+- **The Web Community** for embracing and promoting web accessibility
+- **You, the Developer** for choosing to make your projects more accessible
+
+Together, we're not just building documentation or components – we're creating a more inclusive and accessible web for everyone. Every contribution, whether it's code, documentation, bug reports, or feedback, helps move us closer to this goal. ✨
+
+Remember: Accessibility is not a feature, it's a fundamental right. Thank you for being part of this journey!
 
