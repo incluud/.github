@@ -16,6 +16,7 @@ We’re currently contributing to:
 - [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter): A fully accessible boilerplate for kickstarting Astro projects, with Tailwind CSS support.
 - [Accessible Astro Components](https://github.com/markteekman/accessible-astro-components/): A library of reusable, accessible components designed for Astro, build in TypeScript.
 - [Accessible Astro Dashboard](https://github.com/markteekman/accessible-astro-dashboard/): A user-friendly dashboard interface with a login screen, built with accessibility in mind.
+- [Accessible Astro Docs](https://github.com/incluud/accessible-astro-docs): Comprehensive documentation for all Accessible Astro projects, built with Astro's Starlight theme.
 
 ## 🌟 Our mission
 
